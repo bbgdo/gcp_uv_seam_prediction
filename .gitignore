@@ -1,0 +1,8 @@
+.venv/
+*.pt
+*.pth
+*.obj
+.idea/
+runs/
+__pycache__/
+*ModuleAnalysisCache*
