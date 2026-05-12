@@ -3,6 +3,7 @@
 *.pth
 *.obj
 .idea/
+.claude/
 runs/
 __pycache__/
 *ModuleAnalysisCache*
